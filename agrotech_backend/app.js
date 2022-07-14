@@ -55,7 +55,7 @@ if (args == undefined) {
 
 
 
-	const port = CONFIG.PORT || 2172;
+	const port = CONFIG.PORT || 2162;
 
 	
 	app.listen(port, () => console.log(`App listening at apipreprod.agrotechindia.co.in `));
